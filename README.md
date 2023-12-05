@@ -1,6 +1,6 @@
 
 
-# User Engagement and Emotion Analysis of Social Media Posts 
+# User Engagement and Emotion Analysis of Social Media Posts on Israel-Palenstine Conflict
 
 This project involved analyzing over 10,000 Reddit posts and 7,700 tweets to uncover insights into user engagement, emotion trends, and discussion themes around the Israel-Palestine conflict across two major social platforms - Reddit and Twitter.
 
