@@ -23,3 +23,6 @@ This project involved analyzing over 10,000 Reddit posts and 7,700 tweets to unc
 * Demonstrated applicability of deep learning and NLP in understanding collective human sentiments
   
 This project exemplified core data science techniques for gathering, interpreting, and learning from unstructured user-generated data at scale to understand collective behavior, communication, and aggregate psychological states in online public forums. The approaches can provide actionable insights around crisis response, targeted communication, tracking movement growth and public opinion trends.
+
+## Note
+There are some other codes i used for this project that I did not make available in this notebook. Let me know if you want more details on this project
